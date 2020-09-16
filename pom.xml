@@ -125,6 +125,7 @@
                 <groupId>com.ultracommerce</groupId>
                 <artifactId>ultracommerce-bom</artifactId>
                 <version>${ultracommerce.bom.version}</version>
+                <type>pom</type>
                 <scope>import</scope>
             </dependency>
             <dependency>
